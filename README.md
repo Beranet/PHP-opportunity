@@ -4,7 +4,7 @@ La société :
 L'entreprise propose des solutions digitales de marketing promotionnel : jeux ou offres différées pour diverses marques afin  d'animer leurs ventes de produits.
 Ce secteur étant de plus en plus dépendant de la tech, cette entreprise est à la recherche de développeurs Symfony avec une expertise en API Platform ! Tu pourras rejoindre une équipe tech d'environ 20 personnes et ayant une moyenne d'âge de 27 ans. 
 
-< U > Les missions : </U>
+Les missions :
 
 - Développement back-end en PHP Symfony sur le produit assigné
 - Possibilité de travailler sur des poc
